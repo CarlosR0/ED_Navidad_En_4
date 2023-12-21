@@ -3,7 +3,7 @@ package Prueba;
 public class Prueba {
 
 	public static void main(String[] args) {
-		System.out.println("Navida Navidad dulce Navidad...");
+		System.out.println("Navidad Navidad dulce Navidad...");
 
 	}
 
